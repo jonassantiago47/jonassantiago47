@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="www.youtube.com/c/HeyImJonasDNSEA/" target="_blank">
+  <a href="https://www.youtube.com/c/HeyImJonasDNSEA/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="santiago.jonas.s.0407@gmail.com" target="_blank">
@@ -40,9 +40,3 @@
 </div>
 
 ###
-Profile Readme Generator
-
-<!---
-jonassantiago47/jonassantiago47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
